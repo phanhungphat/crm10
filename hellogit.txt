@@ -1,0 +1,14 @@
+hello git BC10
+
+"git init" chỉ tạo một lần đầu tiên để có thể sử dụng được source code
+
+"git remote" là liên kết source code local với repo git
+==> chỉ chạy lần đầu
+
+TẬP HỢP CÚ PHÁP PUSH FILE LÊN git
+- Bước 1: git status --> Kiếm tra src code ở local và src code ở remote có thay đổi gì ko
+- Bước 2: chạy lệnh git add --> đưa vào stack
+==> "git add * " và "git add . " đều thêm "tất cả" các file vào repo
+---> "git add * " là không bao gồm file ẩn
+---> "git add . " là có bao gồm file ẩn
+
