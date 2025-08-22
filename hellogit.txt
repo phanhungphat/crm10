@@ -11,4 +11,5 @@ TẬP HỢP CÚ PHÁP PUSH FILE LÊN git
 ==> "git add * " và "git add . " đều thêm "tất cả" các file vào repo
 ---> "git add * " là không bao gồm file ẩn
 ---> "git add . " là có bao gồm file ẩn
-
+- Bước 3: git commit -m "thông báo tuỳ chỉnh"
+- Bước 4: git push 
